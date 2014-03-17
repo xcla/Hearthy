@@ -3,7 +3,7 @@ require 'csv'
 
 bot = Cinch::Bot.new do
   configure do |c|
-    c.nick            = "Hearthy"  
+    c.nick            = "Hearthyx"  
     c.server          = "irc.sandcat.nl"
     c.channels        = ["#hs"]
   end
